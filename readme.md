@@ -1,6 +1,4 @@
-# ubinet
-
-Sample site using Roots
+# Bootstrap theme integration with Roots
 
 ### Setup
 
@@ -15,4 +13,5 @@ Sample site using Roots
 - To deploy your site with a single command, run `roots deploy -to XXX` with `XXX` being whichever [ship](https://github.com/carrot/ship#usage) deployer you want to use.
 
 Integration bootstrap theme
-http://ironsummitmedia.github.io/startbootstrap-stylish-portfolio/
+http://startbootstrap.com/template-overviews/grayscale/
+https://github.com/IronSummitMedia/startbootstrap-grayscale
